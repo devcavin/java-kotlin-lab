@@ -24,6 +24,7 @@ fun main() {
     }
 }*/
 
+/*
 import java.util.Scanner
 
 fun main() {
@@ -45,5 +46,15 @@ fun main() {
             val result = s.substring(n) + s.substring(0, n)
             println(result)
         }
+    }
+}*/
+
+fun main() {
+    val string = readln()
+    val index = readln().toInt()
+    try {
+        println(string[index])
+    } catch (e: StringIndexOutOfBoundsException) {
+        println("Out of bounds!")
     }
 }
