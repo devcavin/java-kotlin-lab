@@ -1,6 +1,5 @@
 package javalab.basics;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class SwitchStatement {
@@ -20,5 +19,6 @@ public class SwitchStatement {
            }
            default -> System.out.println("Invalid day");
        }
+       scanner.close();
     }
 }
