@@ -1,4 +1,8 @@
 package javalab.oop.inheritance.animal;
 
-public class Cat {
+public class Cat extends Animal {
+    @Override
+    public void eat() {
+        System.out.println("Cat is eating");
+    }
 }
