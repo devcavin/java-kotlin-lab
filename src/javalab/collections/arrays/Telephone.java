@@ -1,4 +1,4 @@
-package javalab.arrays;
+package javalab.collections.arrays;
 
 public class Telephone {
     public static void main(String[] args) {

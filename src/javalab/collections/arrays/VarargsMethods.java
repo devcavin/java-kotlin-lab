@@ -1,4 +1,4 @@
-package javalab.arrays;
+package javalab.collections.arrays;
 
 import java.util.Arrays;
 
