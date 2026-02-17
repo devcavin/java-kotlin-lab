@@ -1,4 +1,4 @@
-package javalab.collections.arrays;
+package javalab.arrays;
 
 import java.util.Arrays;
 import java.util.Random;

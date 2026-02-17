@@ -1,4 +1,4 @@
-package javalab.collections.arrays.arraylist;
+package javalab.arrays.arraylist;
 
 import java.util.ArrayList;
 
