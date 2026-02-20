@@ -1,4 +1,4 @@
-package kotlinlab.coroutines
+package kotlinlab.threads
 
 import kotlin.concurrent.thread
 

@@ -1,4 +1,4 @@
-package kotlinlab.coroutines
+package kotlinlab.threads.coroutines
 
 /*
 Coroutines allow you to create multiple pieces of code that can run

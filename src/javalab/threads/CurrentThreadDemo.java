@@ -1,4 +1,4 @@
-package javalab.threading;
+package javalab.threads;
 
 // controlling the main thread
 public class CurrentThreadDemo {
