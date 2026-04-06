@@ -3,7 +3,7 @@ package dsa;
 import java.io.*;
 import java.util.*;
 
-class Node {
+public class Node {
     int data;
     Node next;
     Node(int d) {
@@ -12,7 +12,7 @@ class Node {
     }
 }
 
-class Solution {
+/*class Solution {
 
     public static  Node insert(Node head,int data) {
         //Complete this method
@@ -47,4 +47,4 @@ class Solution {
         display(head);
         sc.close();
     }
-}
+}*/
